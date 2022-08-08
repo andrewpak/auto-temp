@@ -1,5 +1,6 @@
 test/
 configure
+Makefile
 aclocal.m4
 config.status
 Makefile.in
