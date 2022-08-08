@@ -1,6 +1,9 @@
 test/
 configure
+aclocal.m4
 config.status
+Makefile.in
+config.h
 config.log
 hello
 *.o
